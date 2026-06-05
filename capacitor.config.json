@@ -1,0 +1,9 @@
+{
+  "appId": "com.rindutenang.kasir",
+  "appName": "Kasir",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "allowNavigation": ["rindutenang.com"]
+  }
+}
