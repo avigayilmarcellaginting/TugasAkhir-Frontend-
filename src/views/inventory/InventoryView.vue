@@ -223,7 +223,7 @@ const formatCurrency = (number) => {
   <div id="view-inventory" class="view-section pt-6 px-4 pb-24 slide-up">
         <header class="flex justify-between items-center mb-6 text-slate-800">
             <div>
-                <h2 class="text-2xl font-bold">Inventaris</h2>
+                <h2 class="text-2xl font-bold">Manajemen Produk</h2>
                 <p class="text-xs text-slate-500 font-medium">Kelola produk & stok real-time</p>
             </div>
             <div class="flex gap-2">
@@ -468,7 +468,7 @@ const formatCurrency = (number) => {
                                         <i class="ri-line-chart-line text-lg"></i>
                                     </div>
                                     <div>
-                                        <p class="text-sm font-black text-slate-800">Lacak Inventaris</p>
+                                        <p class="text-sm font-black text-slate-800">Lacak Manajemen Produk</p>
                                         <p class="text-[10px] text-slate-500 font-medium">Auto-update stok saat jualan</p>
                                     </div>
                                 </div>
