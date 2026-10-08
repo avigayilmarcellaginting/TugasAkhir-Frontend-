@@ -18,7 +18,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/storage': {
-        target: 'http://38.9.46.147',
+        target: 'https://backend.kasir-z.my.id',
         changeOrigin: true,
       },
     },
