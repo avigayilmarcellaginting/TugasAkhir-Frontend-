@@ -18,7 +18,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/storage': {
-        target: 'http://103.16.117.81',
+        target: 'http://38.9.46.147',
         changeOrigin: true,
       },
     },
